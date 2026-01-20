@@ -65,6 +65,8 @@ Este projeto faz parte do meu processo de aprendizado e evolução na área de t
 > Imagens do projeto
 
 <img width="1386" height="751" alt="image" src="https://github.com/user-attachments/assets/54a30952-7fe6-45ed-bd02-5b96dc8ecccc" />
+<img width="1383" height="752" alt="image" src="https://github.com/user-attachments/assets/ec8dcc2c-fa63-47a0-876a-c4f41a7122f6" />
+
 
 ---
 
