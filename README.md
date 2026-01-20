@@ -46,7 +46,7 @@ Os produtos são carregados dinamicamente a partir de um array em JavaScript, si
 ├── index.html
 ├── style.css
 ├── scripts.js
-└── README.md
+README.md
 ```
 
 ## 🎯 Objetivo do Projeto
@@ -62,7 +62,7 @@ Este projeto faz parte do meu processo de aprendizado e evolução na área de t
 
 ## 📸 Preview
 
-> Imagens do projeto disponíveis no repositório
+> Imagens do projeto
 
 <img width="1386" height="751" alt="image" src="https://github.com/user-attachments/assets/54a30952-7fe6-45ed-bd02-5b96dc8ecccc" />
 
